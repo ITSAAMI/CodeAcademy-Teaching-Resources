@@ -1,0 +1,1301 @@
+{
+  "source": [
+    "students.json (uploaded 2026-09-30)",
+    "README.md of ITSAAMI/CodeAcademy-Teaching-Resources"
+  ],
+  "match_key": "certificate_id",
+  "keep_existing_db_names": true,
+  "github_collaborator_to_invite": "itsaami42@gmail.com",
+  "students": [
+    {
+      "certificate_id": "CERT001",
+      "name_in_json": "Sameer amir",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 68,
+        "total": 76
+      },
+      "progress_percent": 90,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "E-Commerce Platform",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Task Manager API",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Portfolio Website",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT002",
+      "name_in_json": "Moizza",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "female",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-female.svg",
+      "attendance": {
+        "attended": 69,
+        "total": 76
+      },
+      "progress_percent": 91,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Sales Forecasting Model",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Twitter Sentiment Analysis",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Recommendation Engine",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT003",
+      "name_in_json": "Sanabil",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "female",
+      "gender_needs_confirmation": true,
+      "avatar": "avatars/placeholder-female.svg",
+      "attendance": {
+        "attended": 70,
+        "total": 76
+      },
+      "progress_percent": 92,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Fintech App Redesign",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Design System Library",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "User Research Toolkit",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT004",
+      "name_in_json": "Syed muhammad subtain gul",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 71,
+        "total": 76
+      },
+      "progress_percent": 93,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Network Intrusion Detector",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Secure Auth System",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Penetration Testing Suite",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT005",
+      "name_in_json": "Shomaila hamraz",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "female",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-female.svg",
+      "attendance": {
+        "attended": 71,
+        "total": 76
+      },
+      "progress_percent": 94,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Serverless Event Processor",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Infrastructure as Code",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Container Migration",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT006",
+      "name_in_json": "Insha mashal",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "female",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-female.svg",
+      "attendance": {
+        "attended": 72,
+        "total": 76
+      },
+      "progress_percent": 95,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Sprint Planning Tool",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Stakeholder Matrix",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Retrospective Dashboard",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT007",
+      "name_in_json": "Rukhsana ismail",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "female",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-female.svg",
+      "attendance": {
+        "attended": 68,
+        "total": 76
+      },
+      "progress_percent": 90,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Fitness Tracker",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Recipe Sharing App",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Event Reminder",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT008",
+      "name_in_json": "Irwa ali",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "female",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-female.svg",
+      "attendance": {
+        "attended": 69,
+        "total": 76
+      },
+      "progress_percent": 91,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Image Classifier",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Chatbot Assistant",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Recommendation System",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT009",
+      "name_in_json": "Ihsanullah jan",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 70,
+        "total": 76
+      },
+      "progress_percent": 92,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Smart Contract Voting",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Token Wallet",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Supply Chain Ledger",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT010",
+      "name_in_json": "Sadia bibi",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "female",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-female.svg",
+      "attendance": {
+        "attended": 71,
+        "total": 76
+      },
+      "progress_percent": 93,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Automated Build Pipeline",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Deployment Monitor",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Infrastructure Provisioner",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT011",
+      "name_in_json": "Farwa ishaq",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "female",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-female.svg",
+      "attendance": {
+        "attended": 33,
+        "total": 76
+      },
+      "progress_percent": 43,
+      "status": "incomplete",
+      "status_note": "Projects Not Submitted",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT012",
+      "name_in_json": "Sania saleem",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "female",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-female.svg",
+      "attendance": {
+        "attended": 30,
+        "total": 76
+      },
+      "progress_percent": 40,
+      "status": "incomplete",
+      "status_note": "Projects Not Submitted",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT013",
+      "name_in_json": "M.waleed",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 34,
+        "total": 76
+      },
+      "progress_percent": 45,
+      "status": "incomplete",
+      "status_note": "Projects Not Submitted",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT014",
+      "name_in_json": "Arsalan kifayat",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 8,
+        "total": 76
+      },
+      "progress_percent": 10,
+      "status": "incomplete",
+      "status_note": "Low Attendance",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT015",
+      "name_in_json": "M.hamza",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 70,
+        "total": 76
+      },
+      "progress_percent": 92,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Product Roadmap",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "User Story Mapping",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Market Research Summary",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT016",
+      "name_in_json": "Noor ul haq",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 22,
+        "total": 76
+      },
+      "progress_percent": 30,
+      "status": "incomplete",
+      "status_note": "Projects Not Submitted",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT017",
+      "name_in_json": "M.zuhaib",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 71,
+        "total": 76
+      },
+      "progress_percent": 94,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Startup Pitch Deck",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Business Model Canvas",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Growth Strategy",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT018",
+      "name_in_json": "Kashan khan",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 72,
+        "total": 76
+      },
+      "progress_percent": 95,
+      "status": "incomplete",
+      "status_note": "Projects Not Submitted",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT019",
+      "name_in_json": "Sarmad shah",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 68,
+        "total": 76
+      },
+      "progress_percent": 90,
+      "status": "incomplete",
+      "status_note": "Projects Not Submitted",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT020",
+      "name_in_json": "Syed muhammad umer",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 69,
+        "total": 76
+      },
+      "progress_percent": 91,
+      "status": "incomplete",
+      "status_note": "Projects Not Submitted",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT021",
+      "name_in_json": "Sabeel mehmood",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": true,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 70,
+        "total": 76
+      },
+      "progress_percent": 92,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "AR Navigation App",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Interactive Demo",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "3D Object Overlay",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT022",
+      "name_in_json": "M.ibrahim",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 71,
+        "total": 76
+      },
+      "progress_percent": 93,
+      "status": "incomplete",
+      "status_note": "Projects Not Submitted",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT023",
+      "name_in_json": "Asia",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "female",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-female.svg",
+      "attendance": {
+        "attended": 0,
+        "total": 76
+      },
+      "progress_percent": 0,
+      "status": "incomplete",
+      "status_note": "No Attendance",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT024",
+      "name_in_json": "Masood khan",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 22,
+        "total": 76
+      },
+      "progress_percent": 30,
+      "status": "incomplete",
+      "status_note": "Projects Not Submitted",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT025",
+      "name_in_json": "Malaika rizwan",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "female",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-female.svg",
+      "attendance": {
+        "attended": 0,
+        "total": 76
+      },
+      "progress_percent": 0,
+      "status": "incomplete",
+      "status_note": "No Attendance",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT026",
+      "name_in_json": "Habban khan",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 8,
+        "total": 76
+      },
+      "progress_percent": 10,
+      "status": "incomplete",
+      "status_note": "Low Attendance",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT027",
+      "name_in_json": "Husna ubaid",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "female",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-female.svg",
+      "attendance": {
+        "attended": 0,
+        "total": 76
+      },
+      "progress_percent": 0,
+      "status": "incomplete",
+      "status_note": "No Attendance",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT028",
+      "name_in_json": "Mobina farooq qureshi",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "female",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-female.svg",
+      "attendance": {
+        "attended": 38,
+        "total": 76
+      },
+      "progress_percent": 50,
+      "status": "partial",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Game Concept Deck",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Level Design Prototype",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Player Feedback Report",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT029",
+      "name_in_json": "M.owais",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 15,
+        "total": 76
+      },
+      "progress_percent": 20,
+      "status": "incomplete",
+      "status_note": "Low Attendance",
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Budget Forecast",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Investment Analysis",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Revenue Model",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT030",
+      "name_in_json": "M.ziahaq shafiq",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 0,
+        "total": 76
+      },
+      "progress_percent": 0,
+      "status": "incomplete",
+      "status_note": "No Attendance",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT031",
+      "name_in_json": "Hijab ali",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "female",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-female.svg",
+      "attendance": {
+        "attended": 0,
+        "total": 76
+      },
+      "progress_percent": 0,
+      "status": "incomplete",
+      "status_note": "No Attendance",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT032",
+      "name_in_json": "M.umair",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 0,
+        "total": 76
+      },
+      "progress_percent": 0,
+      "status": "incomplete",
+      "status_note": "No Attendance",
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Disk Image Analysis",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Log Investigation",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Forensic Report",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT033",
+      "name_in_json": "M.ilyas",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 0,
+        "total": 76
+      },
+      "progress_percent": 0,
+      "status": "incomplete",
+      "status_note": "No Attendance",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT034",
+      "name_in_json": "Aqsa",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "female",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-female.svg",
+      "attendance": {
+        "attended": 57,
+        "total": 76
+      },
+      "progress_percent": 75,
+      "status": "partial",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Quantum Circuit Simulator",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Algorithm Walkthrough",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Research Summary",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT035",
+      "name_in_json": "Maria gul",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "female",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-female.svg",
+      "attendance": {
+        "attended": 0,
+        "total": 76
+      },
+      "progress_percent": 0,
+      "status": "incomplete",
+      "status_note": "No Attendance",
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Onboarding Portal",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Talent Analytics",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Employee Engagement Plan",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT036",
+      "name_in_json": "Shahzaib Sajjad",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 72,
+        "total": 76
+      },
+      "progress_percent": 95,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "E-Commerce Platform",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Task Manager API",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Portfolio Website",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT037",
+      "name_in_json": "Tanzila",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "female",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-female.svg",
+      "attendance": {
+        "attended": 0,
+        "total": 76
+      },
+      "progress_percent": 0,
+      "status": "incomplete",
+      "status_note": "No Attendance",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT038",
+      "name_in_json": "Saddan",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": true,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 8,
+        "total": 76
+      },
+      "progress_percent": 10,
+      "status": "incomplete",
+      "status_note": "Low Attendance",
+      "readmitted_in": null,
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT039",
+      "name_in_json": "Shahab",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 8,
+        "total": 76
+      },
+      "progress_percent": 10,
+      "status": "incomplete",
+      "status_note": "Low Attendance",
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Event Planner",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Recipe App",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Fitness Tracker",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT040",
+      "name_in_json": "Abdur rehman",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 71,
+        "total": 76
+      },
+      "progress_percent": 93,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Blog Platform",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Chat Application",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Dashboard UI",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT041",
+      "name_in_json": "Ihtisham",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 22,
+        "total": 76
+      },
+      "progress_percent": 30,
+      "status": "incomplete",
+      "status_note": "Readmitted in B09",
+      "readmitted_in": "FS_B9",
+      "projects": [],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT042",
+      "name_in_json": "Junaid ahmad",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 72,
+        "total": 76
+      },
+      "progress_percent": 95,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Social Network",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "E-Learning Portal",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Mobile Game",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT043",
+      "name_in_json": "Abdul muheman shah",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 53,
+        "total": 76
+      },
+      "progress_percent": 70,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "CRM Tool",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "File Manager",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Survey Builder",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT044",
+      "name_in_json": "Shakir Dad",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 8,
+        "total": 76
+      },
+      "progress_percent": 10,
+      "status": "incomplete",
+      "status_note": "Low Attendance",
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Event Planner",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Recipe App",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Fitness Tracker",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": false
+    },
+    {
+      "certificate_id": "CERT045",
+      "name_in_json": "Sudais ahmad",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 53,
+        "total": 76
+      },
+      "progress_percent": 70,
+      "status": "completed",
+      "status_note": null,
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Blog Platform",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Chat Application",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Dashboard UI",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": true
+    },
+    {
+      "certificate_id": "CERT046",
+      "name_in_json": "Fawad khan",
+      "course": "Full Stack Web Development",
+      "batch_group": "B01-B07",
+      "gender_inferred": "male",
+      "gender_needs_confirmation": false,
+      "avatar": "avatars/placeholder-male.svg",
+      "attendance": {
+        "attended": 8,
+        "total": 76
+      },
+      "progress_percent": 10,
+      "status": "incomplete",
+      "status_note": "Low Attendance",
+      "readmitted_in": null,
+      "projects": [
+        {
+          "title": "Inventory System",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Booking App",
+          "github_url": null,
+          "github_link_requested": true
+        },
+        {
+          "title": "Analytics Dashboard",
+          "github_url": null,
+          "github_link_requested": true
+        }
+      ],
+      "readme_lists_projects": false
+    }
+  ]
+}
