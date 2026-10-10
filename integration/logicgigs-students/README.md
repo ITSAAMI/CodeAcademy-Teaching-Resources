@@ -19,8 +19,8 @@ machine at `D:\xampp\htdocs\logicgigs`) applies it to the database. Nothing here
 
 ## Clean-up already applied
 - Removed the UTF-8 BOM. Fixed the garbled `Eâ€‘Commerce` text (CERT036). Dropped the `"Not Submitted"` placeholders (78 real projects remain).
-- `status` and `status_note` come from the README: 18 completed, 2 partial, 26 incomplete.
-- CERT041 is marked `readmitted_in: FS_B9`.
+- `status` and `status_note` come from the README: 19 completed, 2 partial, 25 incomplete.
+- CERT041 Ihtisham was readmitted in FS_B9 and completed the course there (updated 2026-10-10): `status: completed`, `readmitted_in: FS_B9`. His B01–B07 attendance (22/76, 30%) doesn't describe the course he completed, so `attendance` and `progress_percent` are null and the old figures are kept in `status_note`. If CERT041 was already applied to the DB, re-apply this record.
 
 ## Still needs approval before applying (see the chat)
 1. Schema: if the DB has no place for attendance, status, gender, or project GitHub links, **do not add columns without the owner's yes**.
