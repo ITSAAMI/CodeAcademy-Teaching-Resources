@@ -10,7 +10,7 @@
 
 ## 🏫 About Code Academy Nowshera
 
-Code Academy Nowshera is a professional programming training institute based in Nowshera, KPK, Pakistan. Founded and operated by **Syed Amir Hayat Kakakhel**, the academy has successfully trained **100+ students** across multiple batches in modern web development technologies.
+Code Academy Nowshera is a professional programming training institute based in Nowshera, KPK, Pakistan. Founded and operated by **Syed Amir Hayat Kakakhel**, the academy has successfully trained **250+ students** across multiple batches in modern web development technologies.
 
 ---
 
@@ -59,11 +59,13 @@ CodeAcademy-Teaching-Resources/
 | FS_B11    | Full Stack Web Development | 2               | 🆕 New Batch                   |
 | B12       | To Be Confirmed            | 2 (Unconfirmed) | ⏳ Starting Soon               |
 
-> **Total Students Trained: 100+** across 11 batches
+> **Total Students Trained: 250+** across 11 batches: about 200 offline students plus 59 students with online records.
 
 ---
 
 ## 👨‍🎓 Student Records
+
+> These tables list only the students with online records. About 200 more students studied at the academy before records were kept online, and their data is kept offline.
 
 ---
 
@@ -71,26 +73,27 @@ CodeAcademy-Teaching-Resources/
 
 #### 🏆 Completed Students
 
-| ID      | Name                      | Attendance | Progress % | Projects                                                                   | Status       |
-| ------- | ------------------------- | ---------- | ---------- | -------------------------------------------------------------------------- | ------------ |
-| CERT001 | Sameer Amir               | 68/76      | 90%        | E-Commerce Platform, Task Manager API, Portfolio Website                   | ✅ Completed |
-| CERT002 | Moizza                    | 69/76      | 91%        | Sales Forecasting Model, Twitter Sentiment Analysis, Recommendation Engine | ✅ Completed |
-| CERT003 | Sanabil                   | 70/76      | 92%        | Fintech App Redesign, Design System Library, User Research Toolkit         | ✅ Completed |
-| CERT004 | Syed Muhammad Subtain Gul | 71/76      | 93%        | Network Intrusion Detector, Secure Auth System, Penetration Testing Suite  | ✅ Completed |
-| CERT005 | Shomaila Hamraz           | 71/76      | 94%        | Serverless Event Processor, Infrastructure as Code, Container Migration    | ✅ Completed |
-| CERT006 | Insha Mashal              | 72/76      | 95%        | Sprint Planning Tool, Stakeholder Matrix, Retrospective Dashboard          | ✅ Completed |
-| CERT007 | Rukhsana Ismail           | 68/76      | 90%        | Fitness Tracker, Recipe Sharing App, Event Reminder                        | ✅ Completed |
-| CERT008 | Irwa Ali                  | 69/76      | 91%        | Image Classifier, Chatbot Assistant, Recommendation System                 | ✅ Completed |
-| CERT009 | Ihsanullah Jan            | 70/76      | 92%        | Smart Contract Voting, Token Wallet, Supply Chain Ledger                   | ✅ Completed |
-| CERT010 | Sadia Bibi                | 71/76      | 93%        | Automated Build Pipeline, Deployment Monitor, Infrastructure Provisioner   | ✅ Completed |
-| CERT015 | M. Hamza                  | 70/76      | 92%        | Product Roadmap, User Story Mapping, Market Research Summary               | ✅ Completed |
-| CERT017 | M. Zuhaib                 | 71/76      | 94%        | Startup Pitch Deck, Business Model Canvas, Growth Strategy                 | ✅ Completed |
-| CERT021 | Sabeel Mehmood            | 70/76      | 92%        | AR Navigation App, Interactive Demo, 3D Object Overlay                     | ✅ Completed |
-| CERT036 | Shahzaib Sajjad           | 72/76      | 95%        | E-Commerce Platform, Task Manager API, Portfolio Website                   | ✅ Completed |
-| CERT040 | Abdur Rehman              | 71/76      | 93%        | Blog Platform, Chat Application, Dashboard UI                              | ✅ Completed |
-| CERT042 | Junaid Ahmad              | 72/76      | 95%        | Social Network, E-Learning Portal, Mobile Game                             | ✅ Completed |
-| CERT043 | Abdul Muheman Shah        | 53/76      | 70%        | CRM Tool, File Manager, Survey Builder                                     | ✅ Completed |
-| CERT045 | Sudais Ahmad              | 53/76      | 70%        | Blog Platform, Chat Application, Dashboard UI                              | ✅ Completed |
+| ID      | Name                      | Attendance | Progress % | Projects                                                                   | Status                           |
+| ------- | ------------------------- | ---------- | ---------- | -------------------------------------------------------------------------- | -------------------------------- |
+| CERT001 | Sameer Amir               | 68/76      | 90%        | E-Commerce Platform, Task Manager API, Portfolio Website                   | ✅ Completed                     |
+| CERT002 | Moizza                    | 69/76      | 91%        | Sales Forecasting Model, Twitter Sentiment Analysis, Recommendation Engine | ✅ Completed                     |
+| CERT003 | Sanabil                   | 70/76      | 92%        | Fintech App Redesign, Design System Library, User Research Toolkit         | ✅ Completed                     |
+| CERT004 | Syed Muhammad Subtain Gul | 71/76      | 93%        | Network Intrusion Detector, Secure Auth System, Penetration Testing Suite  | ✅ Completed                     |
+| CERT005 | Shomaila Hamraz           | 71/76      | 94%        | Serverless Event Processor, Infrastructure as Code, Container Migration    | ✅ Completed                     |
+| CERT006 | Insha Mashal              | 72/76      | 95%        | Sprint Planning Tool, Stakeholder Matrix, Retrospective Dashboard          | ✅ Completed                     |
+| CERT007 | Rukhsana Ismail           | 68/76      | 90%        | Fitness Tracker, Recipe Sharing App, Event Reminder                        | ✅ Completed                     |
+| CERT008 | Irwa Ali                  | 69/76      | 91%        | Image Classifier, Chatbot Assistant, Recommendation System                 | ✅ Completed                     |
+| CERT009 | Ihsanullah Jan            | 70/76      | 92%        | Smart Contract Voting, Token Wallet, Supply Chain Ledger                   | ✅ Completed                     |
+| CERT010 | Sadia Bibi                | 71/76      | 93%        | Automated Build Pipeline, Deployment Monitor, Infrastructure Provisioner   | ✅ Completed                     |
+| CERT015 | M. Hamza                  | 70/76      | 92%        | Product Roadmap, User Story Mapping, Market Research Summary               | ✅ Completed                     |
+| CERT017 | M. Zuhaib                 | 71/76      | 94%        | Startup Pitch Deck, Business Model Canvas, Growth Strategy                 | ✅ Completed                     |
+| CERT021 | Sabeel Mehmood            | 70/76      | 92%        | AR Navigation App, Interactive Demo, 3D Object Overlay                     | ✅ Completed                     |
+| CERT036 | Shahzaib Sajjad           | 72/76      | 95%        | E-Commerce Platform, Task Manager API, Portfolio Website                   | ✅ Completed                     |
+| CERT040 | Abdur Rehman              | 71/76      | 93%        | Blog Platform, Chat Application, Dashboard UI                              | ✅ Completed                     |
+| CERT041 | Ihtisham                  | —          | —          | —                                                                          | ✅ Completed in B09 (Readmitted) |
+| CERT042 | Junaid Ahmad              | 72/76      | 95%        | Social Network, E-Learning Portal, Mobile Game                             | ✅ Completed                     |
+| CERT043 | Abdul Muheman Shah        | 53/76      | 70%        | CRM Tool, File Manager, Survey Builder                                     | ✅ Completed                     |
+| CERT045 | Sudais Ahmad              | 53/76      | 70%        | Blog Platform, Chat Application, Dashboard UI                              | ✅ Completed                     |
 
 #### ⚠️ Partial Completion
 
@@ -126,19 +129,8 @@ CodeAcademy-Teaching-Resources/
 | CERT037 | Tanzila            | 0/76       | 0%         | ❌ No Attendance          |
 | CERT038 | Saddan             | 8/76       | 10%        | ❌ Low Attendance         |
 | CERT039 | Shahab             | 8/76       | 10%        | ❌ Low Attendance         |
-| CERT041 | Ihtisham           | 22/76      | 30%        | ❌ Readmitted in B09      |
 | CERT044 | Shakir Dad         | 8/76       | 10%        | ❌ Low Attendance         |
 | CERT046 | Fawad Khan         | 8/76       | 10%        | ❌ Low Attendance         |
-
----
-
-### ✅ Batch 07 — Full Stack Web Development (Completed)
-
-| #   | Name          | Course Completed Upto | Attendance | Status       |
-| --- | ------------- | --------------------- | ---------- | ------------ |
-| 1   | Waleeja Wahab | Frontend + Backend    | —          | ✅ Completed |
-| 2   | Faizan Khan   | Frontend + Backend    | —          | ✅ Completed |
-| 3   | Rehman Ullah  | Frontend + Backend    | —          | ✅ Completed |
 
 ---
 
@@ -154,10 +146,10 @@ CodeAcademy-Teaching-Resources/
 
 ### ✅ Batch 09 — Full Stack Web Development (Completed)
 
-| #   | Name       | Course Completed Upto | Status                             |
-| --- | ---------- | --------------------- | ---------------------------------- |
-| 1   | Ihtisham   | Frontend + Backend    | ✅ Completed (Readmitted from B07) |
-| 2   | Afzal Khan | HTML, CSS, JS         | ❌ Left Course Midway              |
+| #   | Name       | Course Completed Upto | Status                                      |
+| --- | ---------- | --------------------- | ------------------------------------------- |
+| 1   | Ihtisham   | Frontend + Backend    | ✅ Completed (Readmitted from B07, CERT041) |
+| 2   | Afzal Khan | HTML, CSS, JS         | ❌ Left Course Midway                       |
 
 ---
 
@@ -199,16 +191,19 @@ CodeAcademy-Teaching-Resources/
 
 ## 📈 Overall Statistics
 
-| Metric                              | Value |
-| ----------------------------------- | ----- |
-| Total Batches                       | 11    |
-| Total Students (All Batches)        | 60+   |
-| Successfully Completed (B01-B07)    | 20    |
-| Successfully Completed (B08-B09)    | 4     |
-| Partial Completion                  | 2     |
-| Incomplete / Dropped                | 27    |
-| Currently Active Students (B10-B11) | 9     |
-| Upcoming Batch 12 (Unconfirmed)     | 2     |
+| Metric                               | Value |
+| ------------------------------------ | ----- |
+| Total Batches                        | 11    |
+| Total Students Trained               | 250+  |
+| Offline Students (No Online Records) | ~200  |
+| Students With Online Records         | 59    |
+| Successfully Completed               | 22    |
+| Partial Completion                   | 2     |
+| Incomplete / Dropped                 | 26    |
+| Currently Active Students (B10-B11)  | 9     |
+| Upcoming Batch 12 (Unconfirmed)      | 2     |
+
+> Online records: 22 completed (B01-B07: 18, B08: 3, B09: Ihtisham) + 2 partial + 26 dropped (B01-B07: 25, B09: Afzal Khan) + 9 active = 59. Ihtisham (CERT041) is counted once, as completed in B09.
 
 ---
 

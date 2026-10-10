@@ -1111,13 +1111,10 @@
       "gender_inferred": "male",
       "gender_needs_confirmation": false,
       "avatar": "avatars/placeholder-male.svg",
-      "attendance": {
-        "attended": 22,
-        "total": 76
-      },
-      "progress_percent": 30,
-      "status": "incomplete",
-      "status_note": "Readmitted in B09",
+      "attendance": null,
+      "progress_percent": null,
+      "status": "completed",
+      "status_note": "Readmitted in FS_B9 and completed the course there. Earlier B01-B07 record: 22/76 attendance, 30% progress.",
       "readmitted_in": "FS_B9",
       "projects": [],
       "readme_lists_projects": false
