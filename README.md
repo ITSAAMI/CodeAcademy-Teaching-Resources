@@ -50,14 +50,16 @@ CodeAcademy-Teaching-Resources/
 
 ## 📊 Batches Overview
 
-| Batch     | Course                     | Total Students | Status               |
-| --------- | -------------------------- | -------------- | -------------------- |
-| B01 — B07 | Full Stack Web Development | 46             | ✅ Completed         |
-| FS_B8     | Full Stack Web Development | 3              | ✅ Partialy Complete |
-| FS_B9     | Full Stack Web Development | 2              | 🔥 JS Ongoing        |
-| FS_B10    | Full Stack Web Development | 7              | 🔥 HTML Ongoing      |
+| Batch     | Course                     | Total Students  | Status                         |
+| --------- | -------------------------- | --------------- | ------------------------------ |
+| B01 — B07 | Full Stack Web Development | 46              | ✅ Completed                   |
+| FS_B8     | Full Stack Web Development | 3               | ✅ Completed                   |
+| FS_B9     | Full Stack Web Development | 2               | ✅ Completed (1 Left Midway)   |
+| FS_B10    | Full Stack Web Development | 7               | 🔥 PHP Ongoing (Final Classes) |
+| FS_B11    | Full Stack Web Development | 2               | 🆕 New Batch                   |
+| B12       | To Be Confirmed            | 2 (Unconfirmed) | ⏳ Starting Soon               |
 
-> **Total Students Trained: 100+** across 10 batches
+> **Total Students Trained: 100+** across 11 batches
 
 ---
 
@@ -130,59 +132,83 @@ CodeAcademy-Teaching-Resources/
 
 ---
 
-### ⚠️ Batch 07 — Full Stack Web Development (Backend Complete)
+### ✅ Batch 07 — Full Stack Web Development (Completed)
 
-| #   | Name          | Course Completed Upto | Attendance | Status              |
-| --- | ------------- | --------------------- | ---------- | ------------------- |
-| 1   | Waleeja Wahab | Frontend + Backend    | —          | ⚠️ Backend Complete |
-| 2   | Faizan Khan   | Frontend + Backend    | —          | ⚠️ Backend Complete |
-| 3   | Rehman Ullah  | Frontend + Backend    | —          | ⚠️ Mostly Absent    |
-
----
-
-### ⚠️ Batch 08 — Full Stack Web Development (Backend Complete)
-
-| #   | Name          | Course Completed Upto | Attendance | Status              |
-| --- | ------------- | --------------------- | ---------- | ------------------- |
-| 1   | Waleeja Wahab | Frontend + Backend    | —          | ⚠️ Backend Complete |
-| 2   | Faizan Khan   | Frontend + Backend    | —          | ⚠️ Backend Complete |
-| 3   | Rehman Ullah  | Frontend + Backend    | —          | ⚠️ Mostly Absent    |
+| #   | Name          | Course Completed Upto | Attendance | Status       |
+| --- | ------------- | --------------------- | ---------- | ------------ |
+| 1   | Waleeja Wahab | Frontend + Backend    | —          | ✅ Completed |
+| 2   | Faizan Khan   | Frontend + Backend    | —          | ✅ Completed |
+| 3   | Rehman Ullah  | Frontend + Backend    | —          | ✅ Completed |
 
 ---
 
-### 🔥 Batch 09 — Full Stack Web Development (JS Ongoing)
+### ✅ Batch 08 — Full Stack Web Development (Completed)
 
-| #   | Name       | Course Completed Upto | Status                           |
-| --- | ---------- | --------------------- | -------------------------------- |
-| 1   | Ihtisham   | HTML, CSS, JS         | 🔥 Ongoing (Readmitted from B07) |
-| 2   | Afzal Khan | HTML, CSS, JS         | 🔥 Ongoing                       |
+| #   | Name          | Course Completed Upto | Attendance | Status       |
+| --- | ------------- | --------------------- | ---------- | ------------ |
+| 1   | Waleeja Wahab | Frontend + Backend    | —          | ✅ Completed |
+| 2   | Faizan Khan   | Frontend + Backend    | —          | ✅ Completed |
+| 3   | Rehman Ullah  | Frontend + Backend    | —          | ✅ Completed |
 
 ---
 
-### 🔥 Batch 10 — Full Stack Web Development (HTML Ongoing)
+### ✅ Batch 09 — Full Stack Web Development (Completed)
 
-| #   | Name              | Course Completed Upto | Status     |
-| --- | ----------------- | --------------------- | ---------- |
-| 1   | Fahad Khan        | HTML (Few Classes)    | 🔥 Ongoing |
-| 2   | Hedayat Ullah     | HTML (Few Classes)    | 🔥 Ongoing |
-| 3   | Hafiz Tayyab Khan | HTML (Few Classes)    | 🔥 Ongoing |
-| 4   | Shareef Khan      | HTML (Few Classes)    | 🔥 Ongoing |
-| 5   | Sir Ahmad         | HTML (Few Classes)    | 🔥 Ongoing |
-| 6   | Sir Kamran        | HTML (Few Classes)    | 🔥 Ongoing |
-| 7   | Umar Yousaf       | HTML (Few Classes)    | 🔥 Ongoing |
+| #   | Name       | Course Completed Upto | Status                             |
+| --- | ---------- | --------------------- | ---------------------------------- |
+| 1   | Ihtisham   | Frontend + Backend    | ✅ Completed (Readmitted from B07) |
+| 2   | Afzal Khan | HTML, CSS, JS         | ❌ Left Course Midway              |
+
+---
+
+### 🔥 Batch 10 — Full Stack Web Development (PHP Ongoing)
+
+> Completed: HTML, CSS, JavaScript, Tailwind CSS and MySQL. Only a few PHP classes remain.
+
+| #   | Name              | Course Completed Upto              | Status                    |
+| --- | ----------------- | ---------------------------------- | ------------------------- |
+| 1   | Fahad Khan        | HTML, CSS, JS, Tailwind CSS, MySQL | 🔥 PHP (Few Classes Left) |
+| 2   | Hedayat Ullah     | HTML, CSS, JS, Tailwind CSS, MySQL | 🔥 PHP (Few Classes Left) |
+| 3   | Hafiz Tayyab Khan | HTML, CSS, JS, Tailwind CSS, MySQL | 🔥 PHP (Few Classes Left) |
+| 4   | Shareef Khan      | HTML, CSS, JS, Tailwind CSS, MySQL | 🔥 PHP (Few Classes Left) |
+| 5   | Sir Ahmad         | HTML, CSS, JS, Tailwind CSS, MySQL | 🔥 PHP (Few Classes Left) |
+| 6   | Sir Kamran        | HTML, CSS, JS, Tailwind CSS, MySQL | 🔥 PHP (Few Classes Left) |
+| 7   | Umar Yousaf       | HTML, CSS, JS, Tailwind CSS, MySQL | 🔥 PHP (Few Classes Left) |
+
+---
+
+### 🆕 Batch 11 — Full Stack Web Development (New Batch)
+
+| #   | Name        | Course Completed Upto | Status                        |
+| --- | ----------- | --------------------- | ----------------------------- |
+| 1   | Shahid Agha | —                     | 🔥 Ongoing (Shifted from B10) |
+| 2   | Moeez       | —                     | 🔥 Ongoing                    |
+
+---
+
+### ⏳ Batch 12 — Starting Soon
+
+> Students below are expected but **not confirmed yet**.
+
+| #   | Name    | Course Completed Upto | Status           |
+| --- | ------- | --------------------- | ---------------- |
+| 1   | Zain    | —                     | ⏳ Not Confirmed |
+| 2   | Hasnain | —                     | ⏳ Not Confirmed |
 
 ---
 
 ## 📈 Overall Statistics
 
-| Metric                           | Value |
-| -------------------------------- | ----- |
-| Total Batches                    | 10    |
-| Total Students (All Batches)     | 58+   |
-| Successfully Completed (B01-B07) | 20    |
-| Partial Completion               | 4     |
-| Incomplete / Dropped             | 26    |
-| Currently Active Students        | 12    |
+| Metric                              | Value |
+| ----------------------------------- | ----- |
+| Total Batches                       | 11    |
+| Total Students (All Batches)        | 60+   |
+| Successfully Completed (B01-B07)    | 20    |
+| Successfully Completed (B08-B09)    | 4     |
+| Partial Completion                  | 2     |
+| Incomplete / Dropped                | 27    |
+| Currently Active Students (B10-B11) | 9     |
+| Upcoming Batch 12 (Unconfirmed)     | 2     |
 
 ---
 
@@ -193,6 +219,7 @@ CodeAcademy-Teaching-Resources/
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
